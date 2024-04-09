@@ -37,7 +37,7 @@ struct ProfileView: View {
             }.padding(12)
             .background(
                 RoundedRectangle(cornerRadius: 10)
-                    .fill(Color.darkGrey.opacity(0.5))  // Set the fill color here
+                    .fill(Color.darkGrey.opacity(0.5)) 
             )
             .shadow(radius: 2)
         }
